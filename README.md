@@ -17,11 +17,12 @@
 
 <h2>Methodology</h2>
 <ol>
-  <li><strong>Load the Dataset</strong>: Import the dataset and prepare it for analysis.</li>
-  <li><strong>Exploratory Data Analysis (EDA)</strong>: Visualize and explore the data to identify patterns, outliers, and correlations between the variables.</li>
-  <li><strong>Data Preprocessing</strong>: Clean the data, handle missing values, and perform feature engineering to enhance the model's performance.</li>
-  <li><strong>Model Training and Evaluation</strong>: Train different machine learning models and evaluate their performance based on accuracy, precision, recall, and F1 score.</li>
+  <li><strong>Load the Dataset</strong>: The dataset was loaded into the environment for initial inspection and understanding of the data structure.</li>
+  <li><strong>Exploratory Data Analysis (EDA)</strong>: Conducted an analysis to understand the distribution of key variables and the relationship between different features within the dataset.</li>
+  <li><strong>Feature Selection and Model Training</strong>: Selected relevant features based on the EDA and trained machine learning models to predict COVID-19 outbreaks. The selection of models was based on their ability to handle the characteristics of the data.</li>
+  <li><strong>Evaluation of Model Performance</strong>: Assessed the models' performance using metrics suitable for regression analysis, namely Mean Squared Error (MSE) and R-squared (R²), to determine their accuracy and predictive power.</li>
 </ol>
+
 
 <h2>Results</h2>
 <p>The results are summarized in the tables below, showcasing the performance of various models on both training and testing data.</p>
