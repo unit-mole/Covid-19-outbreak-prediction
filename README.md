@@ -1,5 +1,3 @@
-# Covid-19-outbreak-prediction
-
 <h1>COVID-19 Outbreak Prediction Using Machine Learning</h1>
 
 <h2>Introduction</h2>
